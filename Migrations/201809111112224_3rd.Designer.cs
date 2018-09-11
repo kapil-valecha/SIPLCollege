@@ -7,13 +7,13 @@ namespace SIPLCollege.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class _1st : IMigrationMetadata
+    public sealed partial class _3rd : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(_1st));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(_3rd));
         
         string IMigrationMetadata.Id
         {
-            get { return "201809110523104_1st"; }
+            get { return "201809111112224_3rd"; }
         }
         
         string IMigrationMetadata.Source

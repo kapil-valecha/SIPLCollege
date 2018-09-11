@@ -3,10 +3,38 @@ namespace SIPLCollege.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class _1st : DbMigration
+    public partial class firstmigration : DbMigration
     {
         public override void Up()
         {
+            CreateTable(
+                "dbo.ManageCourses",
+                c => new
+                    {
+                        CourseId = c.Int(nullable: false, identity: true),
+                        CourseName = c.String(),
+                    })
+                .PrimaryKey(t => t.CourseId);
+            
+            CreateTable(
+                "dbo.ManageSubjects",
+                c => new
+                    {
+                        SubjectId = c.Int(nullable: false, identity: true),
+                        SubjectName = c.String(),
+                    })
+                .PrimaryKey(t => t.SubjectId);
+            
+            CreateTable(
+                "dbo.ManageTeachers",
+                c => new
+                    {
+                        TeacherId = c.Int(nullable: false, identity: true),
+                        TeacherName = c.String(),
+                        ChooseSubject = c.String(),
+                    })
+                .PrimaryKey(t => t.TeacherId);
+            
             CreateTable(
                 "dbo.AspNetRoles",
                 c => new
@@ -94,6 +122,9 @@ namespace SIPLCollege.Migrations
             DropTable("dbo.AspNetUsers");
             DropTable("dbo.AspNetUserRoles");
             DropTable("dbo.AspNetRoles");
+            DropTable("dbo.ManageTeachers");
+            DropTable("dbo.ManageSubjects");
+            DropTable("dbo.ManageCourses");
         }
     }
 }

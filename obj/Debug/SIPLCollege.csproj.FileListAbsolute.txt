@@ -118,5 +118,7 @@ C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csproj.
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.pdb
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csprojAssemblyReference.cache
-C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations._1st.resources
+C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations.firstmigration.resources
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csproj.GenerateResource.cache
+C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations.second.resources
+C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations._3rd.resources

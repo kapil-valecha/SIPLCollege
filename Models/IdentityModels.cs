@@ -29,5 +29,11 @@ namespace SIPLCollege.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<SIPLCollege.Models.ManageCourses> ManageCourses { get; set; }
+
+        public System.Data.Entity.DbSet<SIPLCollege.Models.ManageTeachers> ManageTeachers { get; set; }
+
+        public System.Data.Entity.DbSet<SIPLCollege.Models.ManageSubjects> ManageSubjects { get; set; }
     }
 }
