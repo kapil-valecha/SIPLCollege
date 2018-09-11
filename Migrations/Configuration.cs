@@ -9,7 +9,7 @@ namespace SIPLCollege.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(SIPLCollege.Models.ApplicationDbContext context)

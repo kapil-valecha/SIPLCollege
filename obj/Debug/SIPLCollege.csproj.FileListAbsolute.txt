@@ -1,3 +1,4 @@
+C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.WebPages.Razor.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\ApplicationInsights.config
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\SIPLCollege.dll.config
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\SIPLCollege.dll
@@ -82,7 +83,6 @@ C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.Optimization.d
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.Razor.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.WebPages.Deployment.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.WebPages.dll
-C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.WebPages.Razor.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\WebGrease.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.Helpers.xml
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\bin\System.Web.Mvc.xml
@@ -118,5 +118,5 @@ C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csproj.
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.dll
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.pdb
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csprojAssemblyReference.cache
-C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations._45.resources
+C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.Migrations._1st.resources
 C:\Users\sipl\source\repos\SIPLCollege\SIPLCollege\obj\Debug\SIPLCollege.csproj.GenerateResource.cache
